@@ -68,16 +68,18 @@ When I am not coding, you'll find me at my desk sketching stuff. Find out more a
 ## 📕 Pinned Repositories
 
 <p align="center">
-<a href="https://github.com/vishalmishra07/Hindustan_Times-Clone.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gyanimishra&repo=tmetric-clone&hide_border=true&theme=radical" />
-</a>
+  
+  <a href="https://github.com/vishalmishra07/Hindustan_Times-Clone">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vishalmishra07&repo=Hindustan_Times-Clone&hide_border=true&theme=radical" />
+  </a>
 
-<a href="https://github.com/vishalmishra07/Tweet.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnshumaanBaaghi&repo=InternTheory-Clone&hide_border=true&theme=radical" />
-</a>
+  <a href="https://github.com/vishalmishra07/Tweet">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vishalmishra07&repo=Tweet&hide_border=true&theme=radical" />
+  </a>
 
-<a href="https://github.com/vishalmishra07/Blogzzz-App.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnshumaanBaaghi&repo=HindustanTimes_Clone&hide_border=true&theme=radical" />
-</a>
+  <a href="https://github.com/vishalmishra07/Blogzzz-App">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vishalmishra07&repo=Blogzzz-App&hide_border=true&theme=radical" />
+  </a>
+
 </p>
 ---
