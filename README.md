@@ -8,7 +8,7 @@ I'm a passionate learner who's always willing to learn and work across technolog
 When I am not coding, you'll find me at my desk sketching stuff. Find out more about me & feel free to connect with me here:
 
 <p align="center">
-	<a href="https://www.linkedin.com/in/anshumaanbaaghi/">
+	<a href="https://www.linkedin.com/in/vishal-mishra-b34028252/">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
       <a href="mailto:vishalmishra7828@gmail.com">
@@ -26,6 +26,7 @@ When I am not coding, you'll find me at my desk sketching stuff. Find out more a
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
 ### 🧩 Libraries & Framework
 
@@ -67,29 +68,16 @@ When I am not coding, you'll find me at my desk sketching stuff. Find out more a
 ## 📕 Pinned Repositories
 
 <p align="center">
-<a href="https://github.com/gyanimishra/tmetric-clone">
+<a href="https://github.com/vishalmishra07/Hindustan_Times-Clone.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gyanimishra&repo=tmetric-clone&hide_border=true&theme=radical" />
 </a>
 
-<a href="https://github.com/AnshumaanBaaghi/InternTheory-Clone">
+<a href="https://github.com/vishalmishra07/Tweet.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnshumaanBaaghi&repo=InternTheory-Clone&hide_border=true&theme=radical" />
 </a>
 
-<a href="https://github.com/AnshumaanBaaghi/HindustanTimes_Clone">
+<a href="https://github.com/vishalmishra07/Blogzzz-App.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnshumaanBaaghi&repo=HindustanTimes_Clone&hide_border=true&theme=radical" />
 </a>
-
-<a href="https://github.com/AnshumaanBaaghi/Youtube_Clone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnshumaanBaaghi&repo=Youtube_Clone&hide_border=true&theme=radical" />
-</a>
-
-<a href="https://github.com/AnshumaanBaaghi/Sudoku">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnshumaanBaaghi&repo=Sudoku&hide_border=true&theme=radical" />
-</a>
-
-<a href="https://github.com/AnshumaanBaaghi/Unit-2_Nykaa_Project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnshumaanBaaghi&repo=Unit-2_Nykaa_Project&hide_border=true&theme=radical" />
-</a>
-
 </p>
 ---
